@@ -1,0 +1,27 @@
+.Container{
+    background-color: rgba(52, 49, 49, 0.855);
+    height: 600px;
+    width: 400px;
+    border: solid black 1px;
+    border-radius: 5%;
+    margin-left: 35%;
+    contain: content;
+}
+
+.Button{
+    height: 85px;
+    width: 100px;
+    background-color: rgb(235, 235, 228);
+    font-size: 20px;
+}
+
+.Box{
+    margin-top: 2.5px;
+    height: 85px;
+    width: 100%;
+    text-align: right;
+    color: antiquewhite;
+    font-size: 70px;
+}
+
+
